@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/bita/Tamrin(2)/src/bank.cpp
+iostream
+-
+bank.h
+/mnt/c/Users/bita/Tamrin(2)/src/bank.h
+
+/mnt/c/Users/bita/Tamrin(2)/src/bank.h
+iostream
+-
+
+/mnt/c/Users/bita/Tamrin(2)/src/main.cpp
+iostream
+-
+bank.h
+/mnt/c/Users/bita/Tamrin(2)/src/bank.h
+
