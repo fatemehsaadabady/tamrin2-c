@@ -15,10 +15,8 @@ bank.h
 /mnt/c/Users/bita/Tamrin(2)/src/bank.h
 iostream
 -
-
-/mnt/c/Users/bita/Tamrin(2)/src/main.cpp
-iostream
+string
 -
-bank.h
-/mnt/c/Users/bita/Tamrin(2)/src/bank.h
+vector
+-
 
