@@ -9,6 +9,10 @@
 /mnt/c/Users/bita/Tamrin(2)/src/bank.cpp
 iostream
 -
+string
+-
+vector
+-
 bank.h
 /mnt/c/Users/bita/Tamrin(2)/src/bank.h
 
@@ -19,4 +23,14 @@ string
 -
 vector
 -
+
+/mnt/c/Users/bita/Tamrin(2)/src/main.cpp
+iostream
+-
+vector
+-
+string
+-
+bank.h
+/mnt/c/Users/bita/Tamrin(2)/src/bank.h
 
